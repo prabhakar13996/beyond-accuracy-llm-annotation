@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+requests
+python-dotenv
+groq
+huggingface_hub
+datasets
